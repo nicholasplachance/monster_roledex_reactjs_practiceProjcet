@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster_roledex_reactjs_practiceProjcet/static/css/main.e6c87595.chunk.css",
+    "main.js": "/monster_roledex_reactjs_practiceProjcet/static/js/main.c4972374.chunk.js",
+    "main.js.map": "/monster_roledex_reactjs_practiceProjcet/static/js/main.c4972374.chunk.js.map",
+    "runtime-main.js": "/monster_roledex_reactjs_practiceProjcet/static/js/runtime-main.dfe6edf2.js",
+    "runtime-main.js.map": "/monster_roledex_reactjs_practiceProjcet/static/js/runtime-main.dfe6edf2.js.map",
+    "static/js/2.c31d5ea1.chunk.js": "/monster_roledex_reactjs_practiceProjcet/static/js/2.c31d5ea1.chunk.js",
+    "static/js/2.c31d5ea1.chunk.js.map": "/monster_roledex_reactjs_practiceProjcet/static/js/2.c31d5ea1.chunk.js.map",
+    "index.html": "/monster_roledex_reactjs_practiceProjcet/index.html",
+    "precache-manifest.08f365f340c70b7c4fa29da1d78ac61c.js": "/monster_roledex_reactjs_practiceProjcet/precache-manifest.08f365f340c70b7c4fa29da1d78ac61c.js",
+    "service-worker.js": "/monster_roledex_reactjs_practiceProjcet/service-worker.js",
+    "static/css/main.e6c87595.chunk.css.map": "/monster_roledex_reactjs_practiceProjcet/static/css/main.e6c87595.chunk.css.map",
+    "static/js/2.c31d5ea1.chunk.js.LICENSE": "/monster_roledex_reactjs_practiceProjcet/static/js/2.c31d5ea1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfe6edf2.js",
+    "static/js/2.c31d5ea1.chunk.js",
+    "static/css/main.e6c87595.chunk.css",
+    "static/js/main.c4972374.chunk.js"
+  ]
+}
